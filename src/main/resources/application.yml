@@ -1,0 +1,6 @@
+spring:
+  application:
+    name=calculacte
+application:
+  controllers:
+    mapping: /calculate/api/v1
